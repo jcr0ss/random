@@ -1,4 +1,4 @@
-// Using this chrome extension, run custom JS on websites. In this case for LinkedIn.
+// Using this chrome extension, run custom JS on websites. In this case for LinkedIn to sort by recent posts.
 // https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld?hl=en
 $(document).ready(function() {
     setTimeout(function() {
